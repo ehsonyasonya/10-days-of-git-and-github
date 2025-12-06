@@ -88,6 +88,8 @@ Developers need to know basic Unix commands. Some tasks necessary need to be don
 
 If you prefer watching the tutorial, click this [link](https://www.youtube.com/watch?v=9cCApTLb_Io&list=PLbvhRHYrmshSCAHZbibqh_px_LxnU54dk)
 
+In order to get a certificate, you have to enroll to [DevOsome](https://www.devosome.com/) which is an interactive and engaging online educational platform.
+
 ### Current working directory
 
 Checking the working directory using the command _pwd_.
